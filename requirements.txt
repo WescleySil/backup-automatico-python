@@ -1,0 +1,13 @@
+# Requirements for automação-backup
+# Detected third-party imports: selenium
+
+# core
+selenium>=4.0.0
+
+# dotenv for loading credentials from .env
+python-dotenv>=0.21.0
+
+# Google Drive API
+google-api-python-client>=2.70.0
+google-auth>=2.20.0
+google-auth-httplib2>=0.1.0
